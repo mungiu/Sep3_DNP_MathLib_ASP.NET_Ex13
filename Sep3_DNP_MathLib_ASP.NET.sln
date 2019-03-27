@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sep3_DNP_MathLib_ASP.NET", "Sep3_DNP_MathLib_ASP.NET\Sep3_DNP_MathLib_ASP.NET.csproj", "{4BD820C4-0B2D-46B0-B907-02D5128F2AFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLib", "MathLib\MathLib.csproj", "{1C0C765D-EBAF-4A85-8F1E-7190A549D18F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4BD820C4-0B2D-46B0-B907-02D5128F2AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BD820C4-0B2D-46B0-B907-02D5128F2AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BD820C4-0B2D-46B0-B907-02D5128F2AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0C765D-EBAF-4A85-8F1E-7190A549D18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0C765D-EBAF-4A85-8F1E-7190A549D18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0C765D-EBAF-4A85-8F1E-7190A549D18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0C765D-EBAF-4A85-8F1E-7190A549D18F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
